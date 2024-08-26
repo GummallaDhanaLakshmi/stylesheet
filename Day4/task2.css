@@ -1,0 +1,36 @@
+
+.box
+{
+    border:2px solid;
+    width:80px;
+    height:80px;
+    display: inline-block;
+    margin:-2px;  
+}
+.box img
+{
+    width:40px;
+    height:50px;
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+    
+}
+.black
+{
+    background-color: black; 
+    
+}
+.box img
+{
+   width:80px;
+   height:50px;
+   justify-content: center;
+   display: flex;
+   margin-top: 10px;
+}
+.black img
+{
+    border-color: white;
+    color: white;
+}

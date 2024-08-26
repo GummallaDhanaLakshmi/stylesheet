@@ -1,0 +1,66 @@
+body
+{background-color:crimson;
+}
+.main
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    
+}
+.main1
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.c
+{
+    width:330px;
+    height:240px;
+    border-radius: 8px;
+    background-color:rgb(236, 236, 244)
+    
+}
+.c1
+{
+    display: flex;
+    
+    
+}
+.c1 img
+{
+    
+    width:80px;
+    height:80px;
+    padding: 15px;
+    
+}
+li
+{
+    list-style: none;
+}
+.text p
+{
+    padding:14px;
+    margin: 0 10px 0 10px;
+}
+a
+{
+    text-decoration: none;
+}
+.text1 p
+{
+    color:rgb(7, 99, 102);
+}
+.text1
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 25px 0 25px;
+    
+} 
+span
+{
+    color:green;
+}

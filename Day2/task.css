@@ -1,0 +1,276 @@
+*
+{
+    margin:10px;
+    padding:10px;
+}
+body
+{
+    background-color: darkslategray;
+}
+
+.container
+{
+    margin-top:17px;
+    border:2px soild;
+    width:500px;
+    height:200px;
+    background-color: pink;
+    border-radius: 25px;
+    margin-left: 90px;
+}
+h1
+{
+    margin-left: 200px;
+}
+p
+{
+    margin-left:100px;
+}
+button
+{
+    margin-left: 180px;
+    background-color: darkslategrey;
+    border-radius: 20px;
+    width:120px;
+    color:white;
+}
+.container1
+{
+    border:2px soild;
+    width:500px;
+    height:200px;
+    background-color:darkkhaki;
+    border-radius: 25px;
+    position: absolute;
+    right:0;
+    top:0;
+    margin-top: 60px;
+    margin-right: 190px;
+}
+.container2 p
+{
+    margin-left:140px;
+}
+.container2
+{
+    border:2px soild;
+    width:500px;
+    height:200px;
+    background-color:blanchedalmond;
+    border-radius: 25px;
+    margin-left: 90px;     
+}
+.container3 p
+{
+    margin-left:140px;
+}
+.container3
+{
+    border:2px soild;
+    width:500px;
+    height:200px;
+    background-color:deepskyblue;
+    border-radius: 25px;
+    position: absolute;
+    right:0;
+    top:0;
+    margin-top: 320px;
+    margin-right: 190px;
+
+}
+.container4
+{
+    border:2px soild;
+    width:500px;
+    height:200px;
+    background-color:rgb(149, 195, 241);
+    border-radius: 25px;
+    margin-left: 90px;     
+}
+.container4 p
+{
+    margin-left: 60px;
+}
+.container5 h1
+{
+    margin-left:150px;
+}
+.container5
+{
+    border:2px soild;
+    width:500px;
+    height:200px;
+    background-color:rgb(235, 220, 162);
+    border-radius: 25px;
+    position: absolute;
+    right:0;
+    top:0;
+    margin-top: 620px;
+    margin-right: 190px;
+}
+.container5 p
+{
+    margin-left: 60px;
+}
+.container6
+{
+    background-color: rgb(240, 101, 129);
+    width:500px;
+    height:110px;
+    border-radius: 25px;
+    margin-left: 90px;
+    font-size: 20px;
+}
+.container7
+{
+    background-color:rgb(228, 220, 100);
+    width:500px;
+    height:110px;
+    border-radius: 25px;
+    position: absolute;
+    right:0;
+    top:0;
+    margin-top: 930px;
+    margin-right: 190px;
+    font-size: 20px;
+}
+.c8
+{
+    background-color: rgb(229, 130, 130);
+    border-radius:25px;
+    width:220px;
+    height:110px;
+    margin-left:90px;
+    position: relative;
+}
+.c8 h1
+{
+    margin-left: 100px;
+}
+.c9
+{
+    background-color:azure;
+    border-radius:25px;
+    width:230px;
+    height:110px;
+    position: absolute;
+    left:250px;
+    top:-10px; 
+}
+.c9 h1
+{
+    margin-left: 60px;   
+}
+
+.c10
+{
+    background-color:rgb(228, 220, 100);
+    width:220px;
+    height:110px;
+    border-radius: 25px;
+    position: absolute;
+    right:0;
+    top:0;
+    margin-top: 1150px;
+    margin-right: 460px;
+    font-size: 20px;
+}
+.c10 h1
+{
+    margin-left: 40px;
+}
+.c11
+{
+    background-color:rgb(231, 226, 155);
+    width:220px;
+    height:110px;
+    border-radius: 25px;
+    position: absolute;
+    right:40;
+    top: -7px;
+    margin-left: 270px;
+    font-size: 20px;
+}
+.c12
+{
+    background-color:rgb(227, 105, 227);
+    border-radius:25px;
+    width:230px;
+    height:110px;
+    position: absolute;
+    left:110px;
+    
+}
+.c12 h1
+{
+    margin-left: 60px;   
+}
+.c13
+{
+    background-color:rgb(231, 226, 155);
+    width:230px;
+    height:110px;
+    border-radius: 25px;
+    position: absolute;
+    right:40;
+    top: -7px;
+    margin-left: 280px;
+    font-size: 20px;
+}
+.c14
+{
+    background-color:darkseagreen;
+    width:220px;
+    height:110px;
+    border-radius: 25px;
+    position: absolute;
+    right:0;
+    top:0;
+    margin-top: 1345px;
+    margin-right: 460px;
+    font-size: 20px;
+}
+.c14 h1
+{
+    margin-left: 40px;
+}
+.c15
+{
+   background-color:darkolivegreen;
+    width:220px;
+    height:110px;
+    border-radius: 25px;
+    position: absolute;
+    right:40;
+    top: -7px;
+    margin-left: 270px;
+    font-size: 20px;
+}
+.c16
+{
+    background-color: rgb(229, 130, 130);
+    border-radius:25px;
+    width:220px;
+    height:110px;
+    margin-left:90px;
+    margin-top: 130px;
+}
+.c16 h1
+{
+    margin-left: 30px;
+}
+.c17
+{
+    background-color:rgb(231, 226, 155);
+    width:230px;
+    height:110px;
+    border-radius: 25px;
+    position: absolute;
+    right:40;
+    margin-top: -80px;
+    margin-left: 280px;
+    font-size: 20px;
+}
+
+
+

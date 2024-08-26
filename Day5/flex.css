@@ -1,0 +1,161 @@
+.main
+{
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid;
+    flex-direction: row;
+    border-radius: 15px;
+    
+}
+.container
+{
+    background-color: chartreuse;
+    width:300px;
+    height:600px;
+    border-radius: 15px;
+    padding: 15px;
+}
+.container
+{
+   
+   margin-top:0px;
+   width:300px;
+  
+}
+.box
+{
+   padding-left: 240px;
+   
+}
+
+img
+{
+   width: 120px; 
+   height:120px;
+   border-radius: 50%;
+   margin-top: 40px;
+   
+   
+}
+.text h4 
+{
+    margin-top: 20px;
+    padding: 3px;
+    
+}
+span
+{
+    padding:3px;
+    
+}
+button
+{
+    padding:3px;
+    margin-top: 10px;
+    border-radius: 10px;
+    width:180px;
+    height:40px;
+    background-color: navy;
+    color:white;
+}
+.container1
+{
+    
+    padding: 15px;
+    margin-left: 600px;
+    background-color: chartreuse;
+    width:300px;
+    height:600px;
+    border-radius: 15px;
+    position: absolute;
+    top:11px;
+    width:300px;
+    
+  
+}
+.box
+{
+   padding-left: 240px;
+   
+}
+
+img
+{
+   width: 120px; 
+   height:120px;
+   border-radius: 50%;
+   margin-top: 40px;
+   
+   
+}
+.text h4 
+{
+    margin-top: 20px;
+    padding: 3px;
+    
+}
+span
+{
+    padding:3px;
+    
+}
+button
+{
+    padding:3px;
+    margin-top: 10px;
+    border-radius: 10px;
+    width:180px;
+    height:40px;
+    background-color: navy;
+    color:white;
+}
+.container2
+{
+    position: absolute;
+    top:0px;
+    margin-left: 550px;
+    padding: 15px;
+    background-color: chartreuse;
+    width:300px;
+    height:600px;
+    border-radius: 15px; 
+   
+   width:300px;
+  
+}
+.box
+{
+   padding-left: 240px;
+   
+}
+
+img
+{
+   width: 120px; 
+   height:120px;
+   border-radius: 50%;
+   margin-top: 40px;
+   
+   
+}
+.text h4 
+{
+    margin-top: 20px;
+    padding: 3px;
+    
+}
+span
+{
+    padding:3px;
+    
+}
+button
+{
+    padding:3px;
+    margin-top: 10px;
+    border-radius: 10px;
+    width:180px;
+    height:40px;
+    background-color: navy;
+    color:white;
+}

@@ -1,0 +1,128 @@
+.nav1
+{
+    background-color:cadetblue;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.nav1 h1
+{
+    margin-left: 30px;
+    font-family:cursive;
+}
+.nav ul
+{
+    margin-right: 30px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    color: white;
+    
+}
+li
+{
+    list-style-type: none;
+    padding: 15px;
+}
+.image
+{
+   
+    background-image: url("/Day6/burger.jpg");
+    width:100%;
+    height:700px;
+    
+}
+.image p
+{
+    color:white;
+    font-size: 30px;
+    align-items: flex-start;
+    
+}
+.pizza 
+{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly
+}
+.para p
+{
+    margin-bottom: 50px;
+}
+.imag2 img
+{
+    
+    width:500px;
+    height:500px;
+}
+.content h1
+{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.content span
+{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.content p
+{
+    font-size: 20px;
+}
+.chicken
+{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.img1 img
+{
+    width:420px;
+    height:650px;
+}
+.main2 h1
+{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.main2 h3
+{
+    font-family: 'Courier New', monospace;
+    font-size: 30px;
+}.main2 p
+{
+    color:gray;
+}
+.footer h1 span
+{
+    font-size: 50px;
+}
+.footer
+{
+    margin-top: 100px;
+    padding:130px;
+}
+.footer h1
+{
+    font-family: 'Courier New', Courier, monospace;
+}
+.footer span h3
+{
+    color:rgb(66, 124, 231);
+}
+.footer input
+{
+    width:1200px;
+    padding:20px;
+    border-bottom-left-radius: 10px;
+
+}
+button
+{
+    width:200px;
+    padding:20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}

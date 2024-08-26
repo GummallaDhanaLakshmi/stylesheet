@@ -1,0 +1,245 @@
+*
+{
+    margin:2px;
+    padding:0;
+}
+
+.dark{
+    background-color: #222;
+    color: #e6e6e6;
+}
+.nav
+{
+    background-color:rgb(218, 90, 116);
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    
+}
+li a
+{
+    list-style-type: none;
+    display: flex;
+    text-align: justify;
+    padding:10px;
+    text-decoration: none;
+    color:rgb(2, 21, 22);
+    margin-top:-30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 20px;
+    font-weight:100;
+    font-weight: bold;
+
+}
+li
+{
+    float:right;
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+h1
+{
+    margin-left: 20px;
+    color:rgb(2, 51, 53);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+span
+{
+    color: rgb(2, 51, 53);
+}
+.pic
+{
+   background-image: url("/Day3/i1.jpg");
+   background-size: cover;
+   width:100%;
+   height:700px;
+   
+}
+.pic h2
+{
+   text-align: center; 
+   place-items: center;
+   top: 200px;
+   position: relative;
+   
+}
+#footer
+{
+    position: relative;
+    
+    
+}
+.home1
+{
+    background-image: url("/Day3/i2.jpg");
+    width:400px;
+    height:300px;
+    margin-top:10px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin-right: 60px;
+    margin-left: 30px;
+    
+}
+.home2
+{
+    background-image: url("/Day3/i3.jpg");
+    width:400px;
+    height:300px;
+    margin-top:10px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin-right: 60px;
+}
+.home3
+{
+    background-image: url("/Day3/i4.jpg");
+    width:400px;
+    height:300px;
+    margin-top:8px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin-right: 60px;
+}
+.home4
+{
+    background-image: url("/Day3/i5.jpeg");
+    width:400px;
+    height:300px;
+    margin-top:20px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin-right: 100px;
+}
+.home5
+{
+    background-image: url("/Day3/i6.jpg");
+    width:400px;
+    height:300px;
+    top:330px;
+    margin-left: 20px;
+    margin-top:0px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin-right: 100px;
+    position: absolute;
+
+}
+.home6
+{
+    background-image: url("/Day3/i8.webp");
+    width:400px;
+    height:300px;
+    top:330px;
+    position: absolute;
+    margin-left: 500px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    margin-right: 100px;
+}
+.h1 
+{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: black;
+  width:100px;
+  height:30px;
+  position: absolute;
+  z-index: 15px;
+  margin-left: 30px;
+  margin-top:6px;
+}
+p
+{
+    color:white;
+}
+.h2 
+{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: black;
+  width:100px;
+  height:30px;
+  position: absolute;
+  z-index: 15px;
+  margin-left: 492px;
+  margin-top:6px;
+}
+p
+{
+    color:white;
+}
+.h3 
+{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: black;
+  width:100px;
+  height:30px;
+  position: absolute;
+  z-index: 15px;
+  margin-left: 955px;
+  margin-top:14px;
+}
+p
+{
+    color:white;
+}
+.h4 
+{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: black;
+  width:100px;
+  height:30px;
+  position: absolute;
+  z-index: 15px;
+  margin-left: 20px;
+  margin-top:310px;
+}
+p
+{
+    color:white;
+}
+.h5 
+{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: black;
+  width:100px;
+  height:30px;
+  position: absolute;
+  z-index: 15px;
+  margin-left: 500px;
+  margin-top:329px;
+}
+p
+{
+    color:white;
+}
+.h6 
+{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: black;
+  width:100px;
+  height:30px;
+  position: absolute;
+  z-index: 15px;
+  margin-left: 955px;
+  margin-top:327px;
+}
+p
+{
+    color:white;
+}
+
+
